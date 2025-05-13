@@ -21,6 +21,8 @@
 - Self-attention mechanisms in Transformer capturing sequence relationships
 - Better performance with less data through advanced architectures
 
+|![](Transposase_Model_Comparison.png)<br>Accuracy Across Models|
+|:-:|
 ## ❤️ Heart Disease Classification with ML
 
 🔍 Building on approaches from [Pal M et al. (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9206502/)
@@ -53,6 +55,8 @@
 - Number of blood vessels (fluoroscopy)
 
 
+|![](Heart_Disease_Model_Comparison.png)<br>Recall Across Models|
+|:-:|
 ## 👨‍💻 About Me
 
 🧬 Computational Biology Researcher | 🤖 ML Developer | 🎓 CS @ CSUSM  
